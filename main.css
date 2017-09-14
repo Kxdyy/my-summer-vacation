@@ -1,0 +1,43 @@
+h1 {
+    color: #008cff;
+    font-size: 90px;
+    text-align: center; 
+    font-family: 'Anton', sans-serif;
+}
+
+h2 { 
+    color: #008cff;
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+} 
+
+p  {
+    color: #2bf718; 
+    font-size: 30px;
+    text-alighn: center; 
+}
+
+h3 { 
+    color: #008cff;
+    font-size: 40px; 
+}
+
+body {  
+      background-image: url("IMG_4412.JPG");
+}
+
+
+a {
+    color: red;
+    
+}
+
+
+img {
+max-width: 100%;
+} 
+
+#008cff
+
+
+
