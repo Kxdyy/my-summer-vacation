@@ -23,15 +23,17 @@ h3 {
 }
 
 body {  
-      background-image: url("IMG_4412.JPG");
+      background-image: url("grey_tile.jpg");
 }
 
 
 a {
-    color: red;
-    
+    color:#008cff;
 }
 
+a:visited {
+    color: red;
+}
 
 img {
 max-width: 100%;
